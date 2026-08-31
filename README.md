@@ -1,4 +1,4 @@
-// decodelabs-Project1
+#decodelabs-Project1
 Number Guessing Game
 
 About the Project
