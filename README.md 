@@ -1,0 +1,30 @@
+Project 2 — Student Grade Calculator
+
+A Java console application that calculates a student's total marks, average percentage, and final grade based on marks entered for multiple subjects.
+
+Features
+
+- Accepts marks for multiple subjects
+- Validates marks between 0 and 100
+- Calculates total marks
+- Calculates average percentage
+- Assigns a grade from A to F
+- Displays a student report
+
+Grade Criteria
+
+Average| Grade
+90–100| A
+80–89| B
+70–79| C
+60–69| D
+Below 60| F
+
+Concepts Used
+
+- Java Scanner
+- Loops
+- Arithmetic operations
+- If-else conditions
+- Type casting
+- Input validation
