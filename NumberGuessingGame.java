@@ -1,4 +1,4 @@
-//Project 1 Number Guessing Game
+//Project 1 Number Guessing Game.
 
 import java.util.Random;
 import java.util.Scanner;
