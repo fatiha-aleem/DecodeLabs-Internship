@@ -1,3 +1,4 @@
+//decode labs project 2
 import java.util.Scanner;
 
 public class GradeCalculator {
